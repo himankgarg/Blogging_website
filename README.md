@@ -17,7 +17,8 @@
 
 4. You can add/make as many blogs you want.
 
-  ![WhatsApp Image 2023-08-12 at 13 06 55](https://github.com/himankgarg/Blogging_website/assets/74090569/ddd35f79-99fb-46ca-900c-4c14167f3710)
+  ![WhatsApp Image 2023-08-12 at 13 05 59](https://github.com/himankgarg/Blogging_website/assets/74090569/70d43ae2-2b9c-4e43-a37f-9be1da0aabfa)
+
 
    
 6. You can add Headings, paragraphs, and Images to the blog post.
